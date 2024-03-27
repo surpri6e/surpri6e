@@ -30,8 +30,10 @@ My interesting projects:
 - Figma
 - C++
 - Git and GitHub
-- React
+- React, React Native, Redux, Redux Toolkit
 - Boost 
 - NodeJS
+
+I so like package-lock.json <3
 
 Good luck!
