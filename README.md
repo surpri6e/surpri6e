@@ -1,6 +1,6 @@
 ### surpri6e
 
-Hi everyone, my name is Danila and i'm 16 year old programmer from Russia. I started programming from 11. I work on TypeScript and C++ languages. I can work 9-11 hours in day. You can send me messages or call in my social network. My blog site - [HERE](https://surblog.vercel.app/a/surpri6e).
+Hi everyone, my name is Danila and i'm 16 year old programmer from Russia. I started programming from 11. I work on TypeScript and C++ languages. I can work 9-11 hours in day. And i so love support old projects. You can send me messages or call in my social network. My blog site - [HERE](https://surblog.vercel.app/a/surpri6e).
 
 ## Books
 
